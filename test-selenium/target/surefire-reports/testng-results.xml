@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-06T21:52:09 ICT" name="Surefire suite" finished-at="2024-10-06T21:52:21 ICT" duration-ms="12366">
+    <groups>
+    </groups>
+    <test started-at="2024-10-06T21:52:09 ICT" name="Surefire test" finished-at="2024-10-06T21:52:21 ICT" duration-ms="12366">
+      <class name="register.RegistrationFormTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:09 ICT" name="setup" finished-at="2024-10-06T21:52:11 ICT" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRegistrationWithExistingUsername()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:11 ICT" name="testRegistrationWithExistingUsername" finished-at="2024-10-06T21:52:15 ICT" duration-ms="4331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationWithExistingUsername -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:15 ICT" name="teardown" finished-at="2024-10-06T21:52:16 ICT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:16 ICT" name="setup" finished-at="2024-10-06T21:52:17 ICT" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSuccessfulRegistration()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:17 ICT" name="testSuccessfulRegistration" finished-at="2024-10-06T21:52:21 ICT" duration-ms="4299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccessfulRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:register.RegistrationFormTest@28d18df5]" started-at="2024-10-06T21:52:21 ICT" name="teardown" finished-at="2024-10-06T21:52:21 ICT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- register.RegistrationFormTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
